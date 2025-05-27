@@ -2,9 +2,8 @@
 output/
 .DS_Store
 ../
-data/
-dataset/
-source_perso/
+data_phase1/
+data_phase2/
 venv/
 .ipynb_checkpoints/
 .vscode/
