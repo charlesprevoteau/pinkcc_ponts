@@ -1,0 +1,10 @@
+# Données (ne pas mettre sur Git)
+output/
+.DS_Store
+../
+data/
+dataset/
+source_perso/
+venv/
+.ipynb_checkpoints/
+.vscode/
