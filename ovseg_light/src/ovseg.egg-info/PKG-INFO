@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: ovseg
+Version: 1.0
+Summary: A deep learning based libary for ovarian cancer segmentation
+Home-page: https://https://github.com/ThomasBudd/ovseg
+Author: Thomas Buddenkotte
+Author-email: thomasbuddenkotte@googlemail.com
+License: MIT
+License-File: LICENSE
+Requires-Dist: torch>=1.7.0
+Requires-Dist: tqdm
+Requires-Dist: scikit-image>=0.14
+Requires-Dist: scipy
+Requires-Dist: numpy
+Requires-Dist: nibabel
+Requires-Dist: rt_utils
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: summary
