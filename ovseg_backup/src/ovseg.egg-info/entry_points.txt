@@ -1,2 +1,0 @@
-[console_scripts]
-ovseg_inference = ovseg.run.run_inference:main

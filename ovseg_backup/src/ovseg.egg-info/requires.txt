@@ -1,7 +1,0 @@
-torch>=1.7.0
-tqdm
-scikit-image>=0.14
-scipy
-numpy
-nibabel
-rt_utils
