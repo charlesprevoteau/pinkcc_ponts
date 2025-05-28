@@ -1,5 +1,4 @@
 # Données (ne pas mettre sur Git)
-output/
 .DS_Store
 ../
 data_phase1/
